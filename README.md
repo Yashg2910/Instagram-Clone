@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hosting URL: https://instagram-clone-5b53f.web.app
 
 ## Available Scripts
 
