@@ -1,11 +1,11 @@
 Hosting URL: https://instagram-clone-5b53f.web.app
 
 ## Tech Stack
-Front-end: React
-Backend: Firebase
-Styling: Material-UI
+#### Front-end: React Library
+#### Backend: Firebase
+#### Styling: Material-UI
 
-Features: Firebase Authentication, Firestore Realtime Database, Firebase Storage.
+#### Features: Firebase Authentication, Firestore Realtime Database, Firebase Storage.
 
 ## Available Scripts
 
