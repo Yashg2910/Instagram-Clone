@@ -1,5 +1,12 @@
 Hosting URL: https://instagram-clone-5b53f.web.app
 
+## Tech Stack
+Front-end: React
+Backend: Firebase
+Styling: Material-UI
+
+Features: Firebase Authentication, Firestore Realtime Database, Firebase Storage.
+
 ## Available Scripts
 
 In the project directory, you can run:
